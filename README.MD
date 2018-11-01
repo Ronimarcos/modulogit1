@@ -1,1 +1,1 @@
-Meu primeiro sistema no Git(aLTERADO E ATUALIZADO!)
+Meu primeiro sistema no Git
